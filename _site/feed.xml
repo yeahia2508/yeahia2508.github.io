@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yeahia&#39;s Blog</title>
+    <title>Yeahia's Blog</title>
     <description></description>
-    <link>https://yeahia2508.github.io/</link>
-    <atom:link href="https://yeahia2508.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 03:40:50 +0600</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 03:40:50 +0600</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Jul 2018 04:28:05 +0600</pubDate>
+    <lastBuildDate>Tue, 24 Jul 2018 04:28:05 +0600</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
     
   </channel>
 </rss>
